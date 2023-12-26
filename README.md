@@ -7,7 +7,7 @@ Welcome to the [Unsupervised-ML-Note and Codes]! This interactive notebook is de
 ## Features
 
 - **Interactive Learning:** Engage in hands-on learning through interactive code cells and real-world examples.
-- **Comprehensive Content:** Covering a wide range of topics, from [specific topic 1] to [specific topic 2], this notebook provides a comprehensive learning experience.
+- **Comprehensive Content:** Covering a wide range of topics, from [Loading Data] to [Clustering], this notebook provides a comprehensive learning experience.
 - **Visualizations:** Explore visualizations that make complex concepts easier to understand.
 - **Step-by-Step Guides:** Follow step-by-step guides to implement solutions and reinforce your learning.
 
@@ -34,7 +34,7 @@ Ensure you have the following installed:
 
 ### Installation
 
-1. Clone this repository: `git clone [repository link]`
+1. Clone this repository: `git clone [https://github.com/Lawal0abdulazeez/Unsupervised-ML-Note]`
 2. Navigate to the project directory: `cd [project directory]`
 3. Install the dependencies: `pip install -r requirements.txt`
 
