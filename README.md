@@ -54,10 +54,10 @@ If you find any issues, errors, or have suggestions for improvements, feel free 
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License] - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-
+\
 Special thanks to [acknowledged contributors or resources], whose insights and contributions have enhanced the quality of this notebook.
 
 ## Get in Touch
